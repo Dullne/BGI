@@ -1,0 +1,7 @@
+{
+    "cmake.cmakePath": "C:\\Users\\22820\\apps\\cmake-3.27.0\\bin\\cmake.exe",
+    "aide.convertLanguagePairs": {
+      "python": "abap"
+    } // 此处指定自己安装的cmake.exe地址
+  }
+  
