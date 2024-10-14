@@ -1,0 +1,19 @@
+1. 生成对抗网络   
+2. 变分自编码器   图像生成和数据压缩
+3. 自回归模型	图像生成和音频生成    GPT是一种自回归模型
+4. 流模型		
+5. 扩散模型 	通过逐步去噪生成高质量图片   diffusers库   最先进的图像和音频的生成模型  DDPM（Denoising Diffusion Probabilistic Model）
+（Text Encoder 使用 CLIP（Contrastive Language-Image Pre-Training） 模型）
+
+
+
+
+文本生成模型 ：chat gpt lamda
+图像生成  diffusion
+
+
+RAG：检索增强生成模型
+检索已知的数据和样本，通过检索相关信息生成未知标签样本的基因调控网络，检索多组学数据，生成基因调控网络
+
+
+加入注意力机制和U-net，能否实现基因调控网络
